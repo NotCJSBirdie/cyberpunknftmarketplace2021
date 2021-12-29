@@ -1,0 +1,12 @@
+#productname {
+  color: white;
+  font-size: 25px;
+}
+
+#productimage {
+  border-radius: 4rem;
+}
+
+#card {
+  border-radius: 4rem;
+}
