@@ -1,72 +1,45 @@
-# Getting Started with Create React App
+### NFT CYBERPUNK MARKETPLACE 2021
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# OFFICIAL DOCUMENTATION
 
-## Available Scripts
+# ENTRY #2 FOR THE DECEMBER 2021 SHOWCASE
 
-In the project directory, you can run:
+I made a lot of progress in building this website. Here are the tools I used :
 
-### `npm start`
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT.JS
+- TAILWINDCSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# REVISIONS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I also learned a lot of things in improving the design of the website. For example, I used the css z-index property to put elements on top of each other. I also used the position-relative feature and position(top, left, bottom and right) feature to move elements anywhere I want.
 
-### `npm test`
+<span style="color: red;"> Remember though that the direction of the movement is not what you think it is.. </span>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+for example...
 
-### `npm run build`
+# TOP
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](top.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# BOTTOM
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](bottom.png)
 
-### `npm run eject`
+# LEFT
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![](left.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# RIGHT
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![](right.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# CREDITS
 
-## Learn More
+- It is also worth mentioning Meraki UI components and recharts for making the graphs/illustrations and the beautiful components possible.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Credits given to unsplash for the pictures and also to tabler for the amazing graphic design.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# cyberpunknftmarketplace2021
-# cyberpunknftmarketplace2021
+- Credits also to me for using ADOBE PHOTOSHOP in editing the graininess of the background image. It looks extremely cool when deployed.
